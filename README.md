@@ -8,6 +8,7 @@
 
 ## **👉 Contents**
 - Lecture 01
+  - Environment Setting
 - Lecture 02
 - Lecture 03
 - Lecture 04
