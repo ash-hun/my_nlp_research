@@ -10,6 +10,7 @@
 - Lecture 01
   - Environment Setting
 - Lecture 02
+  - PYTHON PROGRAMMING, VARIABLE & OPERATOR
 - Lecture 03
 - Lecture 04
 - Lecture 05
