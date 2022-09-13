@@ -12,6 +12,7 @@
 - Lecture 02
   - PYTHON PROGRAMMING, VARIABLE & OPERATOR
 - Lecture 03
+  - DATA STRUCTURE
 - Lecture 04
 - Lecture 05
 
