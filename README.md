@@ -8,15 +8,47 @@
 ---  
 
 ## **📑 Contents**
-- ### Lecture 01
-  - Environment Setting
-- ### Lecture 02
+- ### **Advanced Python Practice**
+  - ENVIRIONMENT SETTING
   - PYTHON PROGRAMMING, VARIABLE & OPERATOR
-- ### Lecture 03
   - DATA STRUCTURE
-- ### Lecture 04
-  - 
-- ### Lecture 05
+  - CODITION & LOOP
+  - FUNCTION
+  - PYTHONIC PROGRAMMING
+  - OBJECT-ORIENTED PROGRAMMING
+  - MODULE & PACKAGE
+  - ADVANCED DATA STRUCTURE
+  - STRING
+  - REGULAR EXPRESSION
+  - IO
+  - PROGRAMMING SETTING & EXCEPTION & LOGGING
+- ### **Useful Library with ML**
+  - PANDAS
+  - NUMPY
+- ### **Must Have Top 10 Algorithm in 'ML'**
+  - LINEAR REGRESSION
+  - LOGISTIC REGRESSION
+  - KNN
+  - NAIVE BAYES
+  - DECISION TREE
+  - RANDOM FOREST
+  - XGBoost
+  - LightGBM
+  - K Means Clustering
+  - PCA
+- ### **Introducing NLP with DeepLearning**
+  - CNN
+  - RNN
+  - LSTM
+  - GRU
+  - seq2seq
+- ### **Top paper implementation in 'NLP'**
+  - TOPIC MODELING
+  - WORD EMBEDDING
+  - Transformer
+  - ...
+
+---  
 
 
 ## **👩‍💻 Shortcut of Jupyter**
