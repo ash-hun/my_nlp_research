@@ -1,6 +1,6 @@
 <div align="center">
   <h1><i>"My NLP Research"</i></h1><br>
-  <img src="https://img.shields.io/badge/Python v3.10.0-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python <= v3.10.0-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-0e9e15.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow v2.10.0-ff9500.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 </div>
