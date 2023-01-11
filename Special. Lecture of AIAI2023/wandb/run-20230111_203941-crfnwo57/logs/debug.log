@@ -1,0 +1,30 @@
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Configure stats pid to 15888
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Loading settings from C:\Users\User\.config\wandb\settings
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Loading settings from c:\Users\User\Desktop\mynlp_research\Special. Lecture of AIAI2023\wandb\settings
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-01-11 20:39:41,210 INFO    MainThread:15888 [wandb_setup.py:_flush():68] Applying login settings: {'api_key': '***REDACTED***'}
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:_log_setup():478] Logging user logs to c:\Users\User\Desktop\mynlp_research\Special. Lecture of AIAI2023\wandb\run-20230111_203941-crfnwo57\logs\debug.log
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:_log_setup():479] Logging internal logs to c:\Users\User\Desktop\mynlp_research\Special. Lecture of AIAI2023\wandb\run-20230111_203941-crfnwo57\logs\debug-internal.log
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:_jupyter_setup():428] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000020633B634F0>
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:init():518] calling init triggers
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:init():571] starting backend
+2023-01-11 20:39:41,211 INFO    MainThread:15888 [wandb_init.py:init():575] setting up manager
+2023-01-11 20:39:41,218 INFO    MainThread:15888 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn, using: spawn
+2023-01-11 20:39:41,225 INFO    MainThread:15888 [wandb_init.py:init():582] backend started and connected
+2023-01-11 20:39:41,241 INFO    MainThread:15888 [wandb_run.py:_label_probe_notebook():1202] probe notebook
+2023-01-11 20:39:41,241 INFO    MainThread:15888 [wandb_run.py:_label_probe_notebook():1212] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-01-11 20:39:41,241 INFO    MainThread:15888 [wandb_init.py:init():670] updated telemetry
+2023-01-11 20:39:41,393 INFO    MainThread:15888 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2023-01-11 20:39:44,482 WARNING MsgRouterThr:15888 [router.py:message_loop():77] message_loop has been closed
+2023-01-11 20:39:46,456 ERROR   MainThread:15888 [wandb_init.py:init():1135] error
+Traceback (most recent call last):
+  File "c:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\wandb\sdk\wandb_init.py", line 1108, in init
+    run = wi.init()
+  File "c:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\wandb\sdk\wandb_init.py", line 713, in init
+    result = run_init_handle.wait(
+  File "c:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\wandb\sdk\lib\mailbox.py", line 271, in wait
+    raise MailboxError("transport failed")
+wandb.errors.MailboxError: transport failed

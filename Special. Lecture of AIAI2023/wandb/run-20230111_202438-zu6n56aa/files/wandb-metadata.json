@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.25272-SP0",
+    "python": "3.9.5",
+    "heartbeatAt": "2023-01-11T11:24:39.170630",
+    "startedAt": "2023-01-11T11:24:38.176426",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ash-hun/my_nlp_research.git",
+        "commit": "faddadb64fdd5d00b90a5c03eae1580796c85a9b"
+    },
+    "email": "jhchoi09@naver.com",
+    "root": "C:/Users/User/Desktop/mynlp_research",
+    "host": "JH9892",
+    "username": "User",
+    "executable": "c:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2901.0,
+        "min": 0.0,
+        "max": 2901.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2901.0,
+            "min": 0.0,
+            "max": 2901.0
+        }
+    ],
+    "disk": {
+        "total": 476.1977005004883,
+        "used": 419.2014389038086
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.939464569091797
+    }
+}
