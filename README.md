@@ -10,37 +10,38 @@
 
 ## **📑 Contents**
 - ### **Advanced Python Practice**
-  - ENVIRIONMENT SETTING
-  - PYTHON PROGRAMMING, VARIABLE & OPERATOR
-  - PYTHONIC CODE
-  - LAMDA, MAP REDUCE
-  - ASTERIST
-  - DATA STRUCTURE - COLLECTIONS
-  - USEFUL LIBRARY - ITERTOOLS
+  - [x] ENVIRIONMENT SETTING 
+  - [x] PYTHON PROGRAMMING, VARIABLE & OPERATOR
+  - [x] PYTHONIC CODE
+  - [x] LAMDA, MAP REDUCE
+  - [x] ASTERISK
+  - [x] DATA STRUCTURE - COLLECTIONS
+  - [x] USEFUL LIBRARY - ITERTOOLS
 - ### **Useful Library with ML**
-  - PANDAS
-  - NUMPY
+  - [x] NUMPY
+  - [x] MATPLOTLIB
+  - [x] PANDAS
 - ### **Must Have Top 10 Algorithm in 'ML'**
-  - LINEAR REGRESSION
-  - LOGISTIC REGRESSION
-  - KNN
-  - NAIVE BAYES
-  - DECISION TREE
-  - RANDOM FOREST
-  - XGBoost
-  - LightGBM
-  - K Means Clustering
-  - PCA
+  - [ ] LINEAR REGRESSION
+  - [ ] LOGISTIC REGRESSION
+  - [ ] KNN
+  - [ ] NAIVE BAYES
+  - [ ] DECISION TREE
+  - [ ] RANDOM FOREST
+  - [ ] XGBoost
+  - [ ] LightGBM
+  - [ ] K Means Clustering
+  - [ ] PCA
 - ### **Introducing NLP with DeepLearning**
-  - CNN
-  - RNN
-  - LSTM
-  - GRU
-  - seq2seq
+  - [ ] CNN
+  - [ ] RNN
+  - [ ] LSTM
+  - [ ] GRU
+  - [ ] Seq2Seq
+  - [ ] Transformer
 - ### **Top paper implementation in 'NLP'**
-  - TOPIC MODELING
-  - WORD EMBEDDING
-  - Transformer
+  - [ ] TOPIC MODELING
+  - [ ] WORD EMBEDDING
   - ...
 
 ---  
