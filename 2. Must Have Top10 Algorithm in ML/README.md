@@ -3,7 +3,7 @@
 ### **Contents**
 - [x] Linear Regression
 - [x] Logistic Regression
-- [ ] K-means neighbors algorithm (= KNN)
+- [x] K-means neighbors algorithm (= KNN)
 - [ ] Naive Bayes
 - [ ] Decision Tree
 - [ ] Random Forest
