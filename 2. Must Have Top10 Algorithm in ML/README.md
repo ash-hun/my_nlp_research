@@ -4,7 +4,7 @@
 - [x] Linear Regression
 - [x] Logistic Regression
 - [x] K-means neighbors algorithm (= KNN)
-- [ ] Naive Bayes
+- [x] Naive Bayes
 - [ ] Decision Tree
 - [ ] Random Forest
 - [ ] XGBoost
