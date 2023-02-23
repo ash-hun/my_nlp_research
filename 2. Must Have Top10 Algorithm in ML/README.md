@@ -6,7 +6,7 @@
 - [x] K-means neighbors algorithm (= KNN)
 - [x] Naive Bayes
 - [x] Decision Tree
-- [ ] Random Forest
+- [x] Random Forest
 - [ ] XGBoost
 - [ ] LightGBM
 - [ ] K-means Clustering
