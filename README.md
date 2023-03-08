@@ -22,14 +22,14 @@
   - [x] MATPLOTLIB
   - [x] PANDAS
 - ### **Must Have Top 10 Algorithm in 'ML'**
-  - [ ] LINEAR REGRESSION
-  - [ ] LOGISTIC REGRESSION
-  - [ ] KNN
-  - [ ] NAIVE BAYES
-  - [ ] DECISION TREE
-  - [ ] RANDOM FOREST
-  - [ ] XGBoost
-  - [ ] LightGBM
+  - [x] LINEAR REGRESSION
+  - [x] LOGISTIC REGRESSION
+  - [x] KNN
+  - [x] NAIVE BAYES
+  - [v] DECISION TREE
+  - [x] RANDOM FOREST
+  - [v] XGBoost
+  - [x] LightGBM
   - [ ] K Means Clustering
   - [ ] PCA
 - ### **Introducing NLP with DeepLearning**

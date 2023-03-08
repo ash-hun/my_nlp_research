@@ -7,7 +7,7 @@
 - [x] Naive Bayes
 - [x] Decision Tree
 - [x] Random Forest
-- [ ] XGBoost
-- [ ] LightGBM
+- [x] XGBoost
+- [x] LightGBM
 - [ ] K-means Clustering
 - [ ] PCA
