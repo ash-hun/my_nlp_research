@@ -33,7 +33,7 @@
   - [x] K Means Clustering
   - [x] PCA
 - ### **Best Way to implementation in 'NLP'**
-  - [ ] INTRODUCE FOR NLP TASK
+  - [x] INTRODUCE FOR NLP TASK
   - **PREPROCESSING**
     - [ ] CORPUS PREPROCESSING
     - [ ] ONE-HOT ENCODING
