@@ -28,21 +28,25 @@
   - [x] NAIVE BAYES
   - [x] DECISION TREE
   - [x] RANDOM FOREST
-  - [v] XGBoost
+  - [x] XGBoost
   - [x] LightGBM
   - [x] K Means Clustering
   - [x] PCA
-- ### **Introducing NLP with DeepLearning**
+- ### **Best Way to implementation in 'NLP'**
+  - [ ] INTRODUCE FOR NLP TASK
+  - **PREPROCESSING**
+    - [ ] CORPUS PREPROCESSING
+    - [ ] ONE-HOT ENCODING
+    - [ ] TF-IDF
+    - [ ] WORD2VEC
+    - [ ] GLOVE
+  - [ ] N-GRAM
   - [ ] CNN
   - [ ] RNN
   - [ ] LSTM
   - [ ] GRU
   - [ ] Seq2Seq
   - [ ] Transformer
-- ### **Top paper implementation in 'NLP'**
-  - [ ] TOPIC MODELING
-  - [ ] WORD EMBEDDING
-  - ...
 
 ---  
 
