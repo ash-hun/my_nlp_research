@@ -26,12 +26,12 @@
   - [x] LOGISTIC REGRESSION
   - [x] KNN
   - [x] NAIVE BAYES
-  - [v] DECISION TREE
+  - [x] DECISION TREE
   - [x] RANDOM FOREST
   - [v] XGBoost
   - [x] LightGBM
-  - [ ] K Means Clustering
-  - [ ] PCA
+  - [x] K Means Clustering
+  - [x] PCA
 - ### **Introducing NLP with DeepLearning**
   - [ ] CNN
   - [ ] RNN
