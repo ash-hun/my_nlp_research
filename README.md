@@ -35,9 +35,9 @@
 - ### **Best Way to implementation in 'NLP'**
   - [x] INTRODUCE FOR NLP TASK
   - **PREPROCESSING**
-    - [ ] CORPUS PREPROCESSING
-    - [ ] ONE-HOT ENCODING
-    - [ ] TF-IDF
+    - [x] CORPUS PREPROCESSING
+    - [x] ONE-HOT ENCODING
+    - [x] TF-IDF
     - [ ] WORD2VEC
     - [ ] GLOVE
   - [ ] N-GRAM
