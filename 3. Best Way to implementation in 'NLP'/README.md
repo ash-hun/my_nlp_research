@@ -3,13 +3,13 @@
 - ### **Best Way to implementation in 'NLP'**
   - [x] INTRODUCE FOR NLP TASK
   - **PREPROCESSING**
-    - [ ] CORPUS PREPROCESSING
-    - [ ] ONE-HOT ENCODING
-    - [ ] TF-IDF
-    - [ ] WORD2VEC
-    - [ ] GLOVE
+    - [x] CORPUS PREPROCESSING
+    - [x] ONE-HOT ENCODING
+    - [x] TF-IDF
+    - [x] WORD2VEC
+    - [x] GLOVE
   - [ ] N-GRAM
-  - [ ] CNN
+  - [x] CNN
   - [ ] RNN
   - [ ] LSTM
   - [ ] GRU

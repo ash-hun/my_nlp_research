@@ -38,10 +38,10 @@
     - [x] CORPUS PREPROCESSING
     - [x] ONE-HOT ENCODING
     - [x] TF-IDF
-    - [ ] WORD2VEC
-    - [ ] GLOVE
+    - [x] WORD2VEC
+    - [x] GLOVE
   - [ ] N-GRAM
-  - [ ] CNN
+  - [x] CNN
   - [ ] RNN
   - [ ] LSTM
   - [ ] GRU
