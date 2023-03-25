@@ -42,7 +42,10 @@
     - [x] GLOVE
   - [ ] N-GRAM
   - [x] CNN
-  - [ ] RNN
+  - [x] RNN
+    - [ ] One - to - Many
+    - [ ] Many - to - One
+    - [ ] Many - to - Many
   - [ ] LSTM
   - [ ] GRU
   - [ ] Seq2Seq
