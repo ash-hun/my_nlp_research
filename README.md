@@ -46,8 +46,8 @@
     - [ ] One - to - Many
     - [ ] Many - to - One
     - [ ] Many - to - Many
-  - [ ] LSTM
-  - [ ] GRU
+  - [x] LSTM
+  - [x] GRU
   - [ ] Seq2Seq
   - [ ] Transformer
 
