@@ -40,7 +40,7 @@
     - [x] TF-IDF
     - [x] WORD2VEC
     - [x] GLOVE
-  - [ ] N-GRAM
+  - [x] N-GRAM
   - [x] CNN
   - [x] RNN
     - [ ] One - to - Many
@@ -48,6 +48,7 @@
     - [ ] Many - to - Many
   - [x] LSTM
   - [x] GRU
+    - [x] GRU Example : Sentiment Analysis
   - [ ] Seq2Seq
   - [ ] Transformer
 
