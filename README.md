@@ -8,6 +8,8 @@
 
 ---  
 
+## **😁 My Study Report : [*Go!*](https://ashhun.notion.site/Deep-Learning-NLP-9056b3f99b1142fbb3b5690ec6f56490)**
+
 ## **📑 Contents**
 - ### **Advanced Python Practice**
   - [x] ENVIRIONMENT SETTING 
@@ -43,14 +45,11 @@
   - [x] N-GRAM
   - [x] CNN
   - [x] RNN
-    - [ ] One - to - Many
-    - [ ] Many - to - One
-    - [ ] Many - to - Many
   - [x] LSTM
   - [x] GRU
     - [x] GRU Example : Sentiment Analysis
     - [ ] GRU Example : GRU LM
-  - [x] Seq2Seq
+  - [x] Seq2Seq & Encoder/Decoder
   - [ ] Transformer
 
 ---  
