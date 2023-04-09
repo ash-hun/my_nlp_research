@@ -49,7 +49,8 @@
   - [x] LSTM
   - [x] GRU
     - [x] GRU Example : Sentiment Analysis
-  - [ ] Seq2Seq
+    - [ ] GRU Example : GRU LM
+  - [x] Seq2Seq
   - [ ] Transformer
 
 ---  
