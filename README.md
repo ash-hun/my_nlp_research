@@ -7,7 +7,7 @@
 </div>
 
 ---  
-
+## **😎 MY TIL : [*Go!*](https://ashhun.notion.site/TIL-Personal-Research-f1759790cb894d2abc7603e336cb7b7e)**
 ## **😁 My Study Report : [*Go!*](https://ashhun.notion.site/Deep-Learning-NLP-9056b3f99b1142fbb3b5690ec6f56490)**
 
 ## **📑 Contents**
